@@ -59,10 +59,10 @@
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
   <action id="FileChooser.GotoDesktop" />
-  <action id="FindNext" />
-  <action id="FindWordAtCaret">
+  <action id="FindNext">
     <keyboard-shortcut first-keystroke="alt y" />
   </action>
+  <action id="FindWordAtCaret" />
   <action id="GotoBookmark0" />
   <action id="GotoNextElementUnderCaretUsage">
     <keyboard-shortcut first-keystroke="alt j" />
