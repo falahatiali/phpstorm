@@ -64,9 +64,6 @@
   </action>
   <action id="FindWordAtCaret" />
   <action id="GotoBookmark0" />
-  <action id="GotoNextElementUnderCaretUsage">
-    <keyboard-shortcut first-keystroke="alt j" />
-  </action>
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
@@ -103,9 +100,6 @@
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
-  <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="ctrl d" />
-  </action>
   <action id="SendEOF" />
   <action id="ToggleInlineHintsAction">
     <keyboard-shortcut first-keystroke="ctrl 0" />
