@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="development_env" type=".env file" />
+      <mapping pattern="*.blade.php" type="PLAIN_TEXT" />
       <mapping pattern="rtyrtyrrty" type="PLAIN_TEXT" />
       <mapping ext="ods" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
