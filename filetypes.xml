@@ -5,12 +5,14 @@
       <mapping pattern=".gitignote" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="rtyrtyrrty" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="ods" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="facebook_profile_subject" type="YAML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
